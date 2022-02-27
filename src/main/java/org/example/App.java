@@ -13,5 +13,6 @@ public class App
         System.out.println( "Test 1" );
         System.out.println( "Test 3" );
         int a;
+        int b;
     }
 }
