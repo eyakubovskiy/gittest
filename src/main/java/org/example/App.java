@@ -12,5 +12,7 @@ public class App
         System.out.println( "Test 0" );
         System.out.println( "Test 1" );
         System.out.println( "Test 3" );
+
+        int b;
     }
 }
