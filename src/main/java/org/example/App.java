@@ -14,5 +14,6 @@ public class App
         System.out.println( "Test 3" );
 
         int b;
+        int c;
     }
 }
